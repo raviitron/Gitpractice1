@@ -1,1 +1,3 @@
+Explaining the Merge Conflict....  Adding Conflict
+
 Explaining the Merge Conflict....Adding conflict from VS Code
